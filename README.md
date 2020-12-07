@@ -1,4 +1,5 @@
-# TCC_IA_2019_1
+# TCC AI 2019 1 
+# PÓS GRADUAÇÃO - FACENS
 
 <h3>Detecção de Pneumonia por Imagens de Raio-x</h3>
 
@@ -49,3 +50,14 @@
     <li>Normal;   </li>
     <li>Pneumonia. </li>
 </ul>  
+
+<h3>Ferramentas e Bibliotecas </h3>
+<div> 
+<img src="images/ferramentasbibliotecas.png">
+</div>
+
+<h3>Arquitetura da Solução</h3>
+<br>
+<div> 
+<img src="images/arquiteturasolucao.png">
+</div>

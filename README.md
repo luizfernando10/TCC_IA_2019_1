@@ -1,5 +1,4 @@
-# TCC AI 2019 1 
-# PÓS GRADUAÇÃO - FACENS
+# TCC INTELIGÊNCIA ARTIFICIAL 2019S1 - PÓS GRADUAÇÃO FACENS
 
 <h3>Detecção de Pneumonia por Imagens de Raio-x</h3>
 
